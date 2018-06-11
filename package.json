@@ -1,0 +1,23 @@
+{
+  "name": "codefire",
+  "version": "1.0.0",
+  "description": "my clothing brand",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^5.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihoon720/codefire.git"
+  },
+  "author": "Ji Hoon Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihoon720/codefire/issues"
+  },
+  "homepage": "https://github.com/jihoon720/codefire#readme"
+}
